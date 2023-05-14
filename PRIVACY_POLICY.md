@@ -19,9 +19,9 @@ We may collect the following personal information from you when you use our MTG 
 We use your personal information for the following purposes:
 
 - To create and manage your MTG Martial Arts account
-- To track your attendance at Magua Taekwon-Do Group affiliated classes
-- To communicate with you regarding your membership status and updates related to our club
-- To send you updates related to our club and its events
+- To track your attendance at MTG affiliated classes and events
+- To communicate with you regarding your membership and its status
+- To send you updates and notifications related to our club and its events
 - To improve our MTG Martial Arts app and its features
 
 ## 3. Protection of Personal Information
