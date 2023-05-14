@@ -21,7 +21,7 @@ We use your personal information for the following purposes:
 - To create and manage your MTG Martial Arts account
 - To track your attendance at MTG affiliated classes and events
 - To communicate with you regarding your membership and its status
-- To send you updates and notifications related to our club and its events
+- To send you updates and notifications related to our MTG club and its events
 - To improve our MTG Martial Arts app and its features
 
 ## 3. Protection of Personal Information
